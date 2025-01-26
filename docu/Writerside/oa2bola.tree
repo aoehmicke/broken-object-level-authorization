@@ -9,14 +9,14 @@
     <toc-element topic="00_Gliederung-des-Vortrags.md"/>
     <toc-element toc-title="1. Was ist eine Broken Level Authorization">
         <toc-element topic="01_Was-ist-eine-Broken-Level-Authorization.md"/>
-        <toc-element topic="01_Technischer-Überblick.md"/>
+        <toc-element topic="01_Technischer-Ueberblick.md"/>
         <toc-element topic="01_Beispiele-aus-der-Praxis.md"/>
-        <toc-element topic="01_Warum-ist-BOLA-gefährlich.md"/>
+        <toc-element topic="01_Warum-ist-BOLA-gefaehrlich.md"/>
     </toc-element>
     <toc-element toc-title="2. Warum ist BOLA so weit verbreitet">
         <toc-element topic="02_Schwachstelle-bei-API-Designs.md"/>
-        <toc-element topic="02_Komplexität-in-modernen-Systemen.md"/>
-        <toc-element topic="02_Fehlendes-Verständnis-der-Sicherheitsrisiken.md"/>
+        <toc-element topic="02_Komplexitaet-in-modernen-Systemen.md"/>
+        <toc-element topic="02_Fehlendes-Verstaendnis-der-Sicherheitsrisiken.md"/>
     </toc-element>
     <toc-element toc-title="3. Wie entsteht eine BOLA Sicherheitslücke?">
         <toc-element topic="03_Typisches-Angriffsszenario.md"/>
