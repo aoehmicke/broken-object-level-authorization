@@ -14,5 +14,7 @@
         </variables>
         <sitemap priority="0.35" change-frequency="weekly"/>
     </build-profile>
-
+    <footer>
+        <copyright>2025 André Oehmicke</copyright>
+    </footer>
 </buildprofiles>
