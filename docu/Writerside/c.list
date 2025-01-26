@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE categories
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/categories.dtd">
+<categories>
+    <category id="wrs" name="Writerside documentation" order="1"/>
+    <category id="owasp" name="OWASP" order="2"/>
+    <category id="external" name="External" order="3"/>
+    <category id="tools" name="Tools" order="4" />
+</categories>
